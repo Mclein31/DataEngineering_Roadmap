@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "085a085a58f46bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ffa4660c74c4cfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb47e0b57f561475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Foundations/LNX-01 - Shell Navigation and Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LNX-01 - Shell Navigation and Permissions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43c9a3cc2d6af8fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf80bf2f7d282ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4a66302e5bd2dfb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc34a31016d825ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5c3d3cc997a1908e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a5d9af1af41fbe7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f0e7a69edb694c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a7497e8d8321c43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Foundations/LNX-01 - Shell Navigation and Permissions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "48a3b98c95907ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Foundations/LNX-01 - Shell Navigation and Permissions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "34b2307560430c01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1d0d290b80d4c27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b0d461a10b1822de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Foundations/LNX-01 - Shell Navigation and Permissions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb47e0b57f561475",
+  "lastOpenFiles": [
+    "01 - Roadmap/Phase 1 - Foundations.md",
+    "01 - Roadmap/Master Roadmap.md",
+    "01 - Roadmap/12 Month Plan.md",
+    "00 - Dashboard/Skill Matrix.md",
+    "00 - Dashboard/Home.md",
+    "01 - Roadmap/Phase 2 - Storage & ELT.md",
+    "00 - Dashboard/Daily Log.md"
+  ]
+}
