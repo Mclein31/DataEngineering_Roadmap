@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Obsidian local workspace & cache (preserves core plugins, graph, appearance)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Python & testing cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
