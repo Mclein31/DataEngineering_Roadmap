@@ -13,3 +13,11 @@ aliases:
 
 ## 📌 Executive Summary
 A serverless production cloud lakehouse provisioned entirely via **Terraform** Infrastructure as Code on AWS (or LocalStack). Features automated S3 bucket storage lifecycle tiers, least-privilege IAM roles, AWS Glue PySpark ETL jobs, Amazon Athena serverless querying, and automated CI/CD gating using **GitHub Actions**, **Ruff**, **Pytest**, and **Soda Core**.
+
+---
+
+## 🔗 Project Notes
+
+- [[18 - Projects/Project 4 - Production Cloud Platform Terraform/Architecture|Architecture]]
+- [[18 - Projects/Project 4 - Production Cloud Platform Terraform/Verification Checklist|Verification Checklist]]
+- Back to [[Project Index]]

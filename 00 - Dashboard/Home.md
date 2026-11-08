@@ -32,7 +32,7 @@ Welcome to the centralized cockpit for your Data Engineering learning system. Th
 > - **Weekly Goal**: Complete lessons [[LNX-01 - Shell Navigation and Permissions|LNX-01]] and [[LNX-02 - Standard Streams and Pipelines|LNX-02]] + build process-monitoring Bash script.
 
 ### ⏱️ Weekly Study Time Commitment (Target: 12.5 Hours)
-- [ ] **Monday** (1.5h): Concept Acquisition — Read Linux Journey [[RES-06]] & note-taking
+- [ ] **Monday** (1.5h): Concept Acquisition — Read Linux Journey [[Resource Library|RES-06]] & note-taking
 - [ ] **Tuesday** (1.5h): Guided Code-Along — POSIX permissions and stream redirection experiments in macOS Terminal
 - [ ] **Wednesday** (2.0h): Independent Practice — Complete 15 terminal exercises & background job drills
 - [ ] **Thursday** (1.5h): Concept Expansion — Pipeline chaining and file descriptor deep dive

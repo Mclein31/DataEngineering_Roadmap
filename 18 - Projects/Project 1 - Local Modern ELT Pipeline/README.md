@@ -69,3 +69,11 @@ project1-modern-elt/
 ├── pyproject.toml
 └── README.md
 ```
+
+---
+
+## 🔗 Project Notes
+
+- [[18 - Projects/Project 1 - Local Modern ELT Pipeline/Architecture|Architecture]]
+- [[18 - Projects/Project 1 - Local Modern ELT Pipeline/Verification Checklist|Verification Checklist]]
+- Back to [[Project Index]]

@@ -30,3 +30,11 @@ spark-submit \
   --packages org.apache.iceberg:iceberg-spark-runtime-3.5_2.12:1.5.0 \
   src/lakehouse_pipeline.py
 ```
+
+---
+
+## 🔗 Project Notes
+
+- [[18 - Projects/Project 2 - Scalable Lakehouse Spark Iceberg/Architecture|Architecture]]
+- [[18 - Projects/Project 2 - Scalable Lakehouse Spark Iceberg/Verification Checklist|Verification Checklist]]
+- Back to [[Project Index]]

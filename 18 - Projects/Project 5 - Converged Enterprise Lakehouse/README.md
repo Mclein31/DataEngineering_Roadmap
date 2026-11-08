@@ -28,3 +28,11 @@ docker compose up -d
 # Execute end-to-end Airflow DAG with asset triggers
 airflow dags trigger enterprise_converged_pipeline
 ```
+
+---
+
+## 🔗 Project Notes
+
+- [[18 - Projects/Project 5 - Converged Enterprise Lakehouse/Architecture|Architecture]]
+- [[18 - Projects/Project 5 - Converged Enterprise Lakehouse/Verification Checklist|Verification Checklist]]
+- Back to [[Project Index]]

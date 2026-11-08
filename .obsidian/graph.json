@@ -1,12 +1,83 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:\"99 - Templates\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:\"Home\"",
+      "color": {
+        "a": 1,
+        "rgb": 2060973
+      }
+    },
+    {
+      "query": "path:\"00 - Dashboard\" OR path:\"01 - Roadmap\"",
+      "color": {
+        "a": 1,
+        "rgb": 2526937
+      }
+    },
+    {
+      "query": "path:\"02 - Foundations\" OR path:\"03 - Python\" OR path:\"04 - SQL\"",
+      "color": {
+        "a": 1,
+        "rgb": 2517977
+      }
+    },
+    {
+      "query": "path:\"05 - Databases\" OR path:\"06 - Data Modeling\"",
+      "color": {
+        "a": 1,
+        "rgb": 2535385
+      }
+    },
+    {
+      "query": "path:\"07 - Modern ELT\" OR path:\"08 - Data Warehousing\"",
+      "color": {
+        "a": 1,
+        "rgb": 5941730
+      }
+    },
+    {
+      "query": "path:\"09 - Data Lakes\" OR path:\"10 - Apache Spark\"",
+      "color": {
+        "a": 1,
+        "rgb": 5934818
+      }
+    },
+    {
+      "query": "path:\"11 - Airflow\" OR path:\"12 - Kafka\"",
+      "color": {
+        "a": 1,
+        "rgb": 5948130
+      }
+    },
+    {
+      "query": "path:\"13 - Cloud\" OR path:\"14 - DevOps\"",
+      "color": {
+        "a": 1,
+        "rgb": 8831210
+      }
+    },
+    {
+      "query": "path:\"15 - Data Quality\" OR path:\"16 - Data Governance\" OR path:\"17 - System Design\"",
+      "color": {
+        "a": 1,
+        "rgb": 8826090
+      }
+    },
+    {
+      "query": "path:\"18 - Projects\" OR path:\"19 - Certifications\" OR path:\"20 - Interview\" OR path:\"21 - Resources\" OR path:\"99 - Templates\"",
+      "color": {
+        "a": 1,
+        "rgb": 8835818
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2588478528606913,
-  "close": false
+  "scale": 0.6531970496858449,
+  "close": true
 }
